@@ -28,13 +28,15 @@
 ## ⚙ 기술 스택
 ### Front-end
 <div>
-<img width="90" alt="Image" src="https://github.com/user-attachments/assets/5ea17a38-71d9-4301-b701-e6b51f871b86" />
-<img width="90" alt="Image" src="https://github.com/user-attachments/assets/8039f347-29d9-4018-ba79-901e5410484a" />
+![c언어로고](https://github.com/user-attachments/assets/17b9b597-9b61-4df7-afe3-98816596a5e7)
+![아두이노 로고](https://github.com/user-attachments/assets/e8917eaa-90d7-45f0-ab0d-63910ad74a63)
+![Microsoft_Excel_2013-2019_logo svg](https://github.com/user-attachments/assets/c700b1a6-ecb9-4adf-aaf1-59c78795dd17)
+
 </div>
 
 ### Tools
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
+
 </div>
 
 <br />
