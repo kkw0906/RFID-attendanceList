@@ -30,6 +30,8 @@
 | RFID RC522 | rfid카드를 태그 |
 | I2C LCD | lcd에 누가 태그했는지 출력 |
 | mh real-time clock module2 | 태그시간 시간측정 |
+## 핀연결도
+<img src ="https://github.com/user-attachments/assets/84b6ca69-85f5-4296-8bf6-6f0923303a00"/>
 
 <br />
 ## 동작 방식
